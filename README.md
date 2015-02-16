@@ -1,1 +1,2 @@
-Motor en AS3 sobre framework AIR de juego de cartas con capacidad multijugador sobre sockets.
+Juego de cartas en AS3 sobre framework AIR con capacidad multijugador sobre sockets.  
+Servidor sobre Node.JS
